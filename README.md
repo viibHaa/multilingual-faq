@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multilingual FAQ System (Django)
 
 This is a Django-based REST API for managing FAQs with multilingual support.  
@@ -19,3 +20,6 @@ It supports automatic translations using Google Translate API and integrates a W
 ```bash
 git clone https://github.com/your-username/multilingual-faq.git
 cd multilingual-faq
+=======
+# multilingual-faq
+>>>>>>> 6acfb56c900f2360197ec5a90ec5031452a3d666
